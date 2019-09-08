@@ -6,7 +6,7 @@
       "identifier": "1",
       "name": "K-Pop",
       "publisher": "Gabriel Aumala",
-      "tray_image_file": "tray_Cuppy.png",
+      "tray_image_file": "kpop_icon.png",
       "image_data_version":"1",
       "avoid_cache":false,
       "publisher_email":"",
@@ -24,6 +24,14 @@
         },
         {
           "image_file": "03_dahyun_stare.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "04_jeongyeon_momo_heart.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "05_wendy_yay.webp",
           "emojis": []
         }
       ]
