@@ -13,7 +13,6 @@
 		0A817FA1233D242A00E18B37 /* 07_solar_unamused.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F96233D242900E18B37 /* 07_solar_unamused.webp */; };
 		0A817FA2233D242A00E18B37 /* 04_jeongyeon_momo_heart.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F97233D242900E18B37 /* 04_jeongyeon_momo_heart.webp */; };
 		0A817FA3233D242A00E18B37 /* 06_luda_tasty.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F98233D242900E18B37 /* 06_luda_tasty.webp */; };
-		0A817FA4233D242A00E18B37 /* 10_chaeyoung_uncomfortable.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F99233D242900E18B37 /* 10_chaeyoung_uncomfortable.webp */; };
 		0A817FA5233D242A00E18B37 /* 02_jihyo_cute.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F9A233D242900E18B37 /* 02_jihyo_cute.webp */; };
 		0A817FA6233D242A00E18B37 /* 05_wendy_yay.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F9B233D242900E18B37 /* 05_wendy_yay.webp */; };
 		0A817FA7233D242A00E18B37 /* 08_hani_cute.webp in Resources */ = {isa = PBXBuildFile; fileRef = 0A817F9C233D242900E18B37 /* 08_hani_cute.webp */; };
@@ -71,7 +70,6 @@
 		0A817F96233D242900E18B37 /* 07_solar_unamused.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 07_solar_unamused.webp; path = ../../Android/app/src/main/assets/1/07_solar_unamused.webp; sourceTree = "<group>"; };
 		0A817F97233D242900E18B37 /* 04_jeongyeon_momo_heart.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 04_jeongyeon_momo_heart.webp; path = ../../Android/app/src/main/assets/1/04_jeongyeon_momo_heart.webp; sourceTree = "<group>"; };
 		0A817F98233D242900E18B37 /* 06_luda_tasty.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 06_luda_tasty.webp; path = ../../Android/app/src/main/assets/1/06_luda_tasty.webp; sourceTree = "<group>"; };
-		0A817F99233D242900E18B37 /* 10_chaeyoung_uncomfortable.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 10_chaeyoung_uncomfortable.webp; path = ../../Android/app/src/main/assets/1/10_chaeyoung_uncomfortable.webp; sourceTree = "<group>"; };
 		0A817F9A233D242900E18B37 /* 02_jihyo_cute.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 02_jihyo_cute.webp; path = ../../Android/app/src/main/assets/1/02_jihyo_cute.webp; sourceTree = "<group>"; };
 		0A817F9B233D242900E18B37 /* 05_wendy_yay.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 05_wendy_yay.webp; path = ../../Android/app/src/main/assets/1/05_wendy_yay.webp; sourceTree = "<group>"; };
 		0A817F9C233D242900E18B37 /* 08_hani_cute.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = 08_hani_cute.webp; path = ../../Android/app/src/main/assets/1/08_hani_cute.webp; sourceTree = "<group>"; };
@@ -208,7 +206,6 @@
 				0A817FA8233D251F00E18B37 /* kpop_icon.png */,
 				0A817F9C233D242900E18B37 /* 08_hani_cute.webp */,
 				0A817F92233D242900E18B37 /* 09_irene_laugh.webp */,
-				0A817F99233D242900E18B37 /* 10_chaeyoung_uncomfortable.webp */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -322,7 +319,6 @@
 				0A817F9E233D242A00E18B37 /* 03_dahyun_stare.webp in Resources */,
 				0A817F9D233D242A00E18B37 /* 09_irene_laugh.webp in Resources */,
 				0A817FA0233D242A00E18B37 /* 01_jeongyeon_cute.webp in Resources */,
-				0A817FA4233D242A00E18B37 /* 10_chaeyoung_uncomfortable.webp in Resources */,
 				0A817FA9233D251F00E18B37 /* kpop_icon.png in Resources */,
 				0A817FA1233D242A00E18B37 /* 07_solar_unamused.webp in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
@@ -508,7 +504,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XF83TY85WG;
+				DEVELOPMENT_TEAM = 988EZ99NPC;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -516,7 +512,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gaumala.stickers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gaumala.Stickers;
 				PRODUCT_NAME = Gabi;
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -532,7 +528,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XF83TY85WG;
+				DEVELOPMENT_TEAM = 988EZ99NPC;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -540,7 +536,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gaumala.stickers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gaumala.Stickers;
 				PRODUCT_NAME = Gabi;
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;

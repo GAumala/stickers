@@ -20,39 +20,35 @@
         },
         {
           "image_file": "02_jihyo_cute.webp",
-          "emojis": []
+          "emojis": ["😍", "🥰"]
         },
         {
           "image_file": "03_dahyun_stare.webp",
-          "emojis": []
+          "emojis": ["😏", "👀"]
         },
         {
           "image_file": "04_jeongyeon_momo_heart.webp",
-          "emojis": []
+          "emojis": ["♥️"]
         },
         {
           "image_file": "05_wendy_yay.webp",
-          "emojis": []
+          "emojis": ["😁", "👏"]
         },
         {
           "image_file": "06_luda_tasty.webp",
-          "emojis": []
+          "emojis": ["🤤"]
         },
         {
           "image_file": "07_solar_unamused.webp",
-          "emojis": []
+          "emojis": ["😒"]
         },
         {
           "image_file": "08_hani_cute.webp",
-          "emojis": []
+          "emojis": ["😘"]
         },
         {
           "image_file": "09_irene_laugh.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10_chaeyoung_uncomfortable.webp",
-          "emojis": []
+          "emojis": ["😂"]
         }
       ]
     }
